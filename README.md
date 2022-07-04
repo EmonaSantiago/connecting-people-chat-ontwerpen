@@ -4,7 +4,11 @@
 
 ## Ontwerp tien verschillende digitale versies van een chatroom voor jouw opdrachtgever
 
+
 ## Schetsen, Figma/XD of CSS?
+
+### Realtime ontwerpen
+<img width="402" alt="Schermafbeelding 2022-07-04 om 13 54 50" src="https://user-images.githubusercontent.com/90447045/177149921-c09240cb-6239-4a67-9740-09410e6c9a6a.png">
 
 
 ## Licentie
