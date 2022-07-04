@@ -4,6 +4,8 @@
 
 ## Analyseren van de Chatroom.
 Voordat ik begon met bouwen heb ik gekeken naar de vaste chatroom kenmerken. Als een sendbutton, Tijstip en usernames enzovoort. Ook had ik meteen door dat chatrooms wel een vaste lay-out hebben. Zo ging ik verder naar het schetsen op papier. 
+
+
 <img width="200" alt="Schermafbeelding 2022-07-04 om 16 24 48" src="https://user-images.githubusercontent.com/90447045/177174161-d4b184ca-bf39-4c08-94e6-503e5378837a.png">
 
 
