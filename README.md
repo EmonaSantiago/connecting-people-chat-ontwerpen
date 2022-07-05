@@ -6,7 +6,9 @@
 Voordat ik begon met bouwen heb ik gekeken naar de vaste chatroom kenmerken. Als een sendbutton, Tijstip en usernames enzovoort. Ook had ik meteen door dat chatrooms wel een vaste lay-out hebben. Zo ging ik verder naar het schetsen op papier. 
 
 
-<img width="200" alt="Schermafbeelding 2022-07-04 om 16 24 48" src="https://user-images.githubusercontent.com/90447045/177174161-d4b184ca-bf39-4c08-94e6-503e5378837a.png">
+<img width="200" alt="Schermafbeelding 2022-07-04 om 16 24 48" src="https://user-images.githubusercontent.com/90447045/177174161-d4b184ca-bf39-4c08-94e6-503e5378837a.png"><img width="250" alt="Schermafbeelding 2022-07-05 om 09 42 58" src="https://user-images.githubusercontent.com/90447045/177276316-7d0a92f6-7df9-4821-948b-70d547572684.png">
+
+
 
 
 ## Figma ontwerpen eigen chatroom. 
@@ -14,7 +16,7 @@ Voor mijn eigen chatroom had ik het idee "GIRLY" te maken. Ik heb hiervoor versc
 <img width="953" alt="Schermafbeelding 2022-07-04 om 16 21 57" src="https://user-images.githubusercontent.com/90447045/177174002-c489c864-f5ad-4dfb-8422-293eda7f1400.png">
 
 
-Upate schetsen:
+Update schetsen:
 Uiteindelijk is het toch nog dit geworden....
 
 
